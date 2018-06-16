@@ -1,1 +1,1 @@
-this is a flask blog
+flask blog
