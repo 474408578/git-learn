@@ -27,4 +27,8 @@ git reset [options] 版本号  # 代码的回滚
 git branch -v  # 查看当前的分支
 git checkout -b 分支名  # 创建并切换到创建的分支
 
+
+合并分支
+git checkout master  # 1、切换到master分支
+git merge issue1  # 2、将issue1分支合并到master分支
 ```
