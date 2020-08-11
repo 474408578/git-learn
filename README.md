@@ -8,4 +8,6 @@ git status
 git add file   # 将文件从工作区添加到缓冲区
 git commit -m "message" # 将文件从缓冲区提交到归档区
 git push origin master # 将文件push到名为orgin的远程仓库的master分支
+
+git reset [options] 版本号  # 代码的回滚 
 ```
